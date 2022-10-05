@@ -1,3 +1,7 @@
+//REVISIÓ DE AVANCE 1 DE 6 PROGRAMACIÓN II
+//PRIMERA VERSIÓN DE CAJERO EN C++
+//LUNES 3 DE OCTUBRE DE 20222
+//CALIFICACIÓN 10
 #include <bits/stdc++.h>
 #include <iostream>
 #include <string>
